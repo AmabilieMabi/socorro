@@ -1,0 +1,38 @@
+*{
+  background-color: black;
+
+}
+
+img{
+  max-width: 800px ;
+}
+
+.App {
+  text-align: center;
+}
+
+h1{
+  color: #ffff;
+}
+
+.titulo-noticia{
+  color: #ffff;
+  font-size: 30px;
+}
+
+.titulo-noticia{
+  color: #ffff;
+  font-size: 30px;
+}
+
+.descrição-noticia{
+  color: #ffff;
+  font-size: 20px;
+  font-weight:200 ;
+}
+
+.categoria-noticia{
+  color: #ffff;
+  font-size: 20px;
+  font-weight:200 ;
+}
